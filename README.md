@@ -145,7 +145,7 @@ TODO
 
 [readsb - forked dump1090](https://github.com/Mictronics/readsb)
 
-[topic library - feedmerge uses] https://github.com/tv42/topic
+[topic library - feedmerge uses](https://github.com/tv42/topic)
 
 [Virtual Rader Server (VRS)](http://www.virtualradarserver.co.uk/)
 
